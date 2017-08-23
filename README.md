@@ -15,12 +15,12 @@ Learn about how collaborating works
 Learn how to make commits, fetches, and pushes/pulls.
 
 There are several different repos in this organization.
-Many of the repos have workign code. Others done. spend time familiarizing yourself with them.
+Many of the repos have working code. Others dont. spend time familiarizing yourself with them.
 
 It may help to take hardware components into account, and "pin" each component with a file for each system you chose.
 It may help to make an architectre diagram so you can see the workflow for the mouse.
 
-Spend all resources on getting ONE mouse running first. This is a long term project and you should be contriburting to the future of MM.
+Spend all resources on getting ONE mouse running first. This is a long term project and you should be contributing to the future of MM.
 
 
 -Best
